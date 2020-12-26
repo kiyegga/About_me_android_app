@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">About_Me</string>
+    <string name="name">Kiyegga Francis</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, am Kiyegga francis
+       \n\nI Vestibulum ac sem at augue elementum mollis.
+       \n\n Vestibulum dapibus, nibh at vulputate eleifend,
+        \n dui nisl tincidunt nulla, sed consequat lorem eros eu turpis.
+        \n Pellentesque sit amet mi risus. Donec ullamcorper,
+        \n urna ac feugiat venenatis, est dolor rhoncus sapien,
+        \n eget eleifend est quam vitae orci. Ut finibus lacus nisl,
+        \n vel aliquet sem sodales vel. Donec bibendum dui quis semper laoreet.
+        \n Aliquam et purus a dolor tempus elementum vel sit amet purus.
+        \n Duis eget interdum eros, nec auctor leo. Nullam bibendum lacus nec eros laoreet,
+        \n sit amet rhoncus dui pretium. Suspendisse gravida hendrerit massa,
+        \n vitae gravida velit sagittis et. Donec at accumsan arcu. Sed rutrum,
+        \n libero a malesuada interdum, enim augue ornare mauris,
+        \n posuere interdum urna neque quis metus. Donec in arcu eget dui accumsan blandit.
+        \n Suspendisse eu pellentesque diam. Integer facilisis urna vitae mi luctus,
+        \n ac malesuada velit auctor.
+        \nPraesent nec mattis ipsum, id porta purus.
+        \nEtiam et magna ac erat placerat finibus.
+        \nLorem ipsum dolor sit amet, consectetur adipiscing elit.
+        \nMauris ut eros ut nisi rutrum rutrum ut vel odio.
+        \nDonec pharetra hendrerit tortor, a auctor felis molestie a.
+        \nPraesent fringilla vehicula tellus id rhoncus. Nullam et accumsan velit.
+        \nPraesent id lorem sed urna accumsan sagittis. In dui mi, finibus nec nibh quis,
+        \npulvinar faucibus orci. Nullam faucibus tellus eget egestas volutpat. In hac habitasse platea dictumst.
+        \nEtiam malesuada, odio in elementum condimentum, metus erat porta diam, non consectetur massa justo rhoncus diam. \n\n
+
+    </string>
+    <string name="what_is_your_nickname">what is your nickname?</string>
+    <string name="empty_value" />
+    <string name="done">Done</string>
+</resources>
